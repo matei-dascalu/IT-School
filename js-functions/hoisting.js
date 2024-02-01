@@ -5,13 +5,13 @@
  */
 
 function randomFunction() {
-    if (true) {
-        let randomVariable = 10;
-
-        console.log(randomVariable);
-    }
+  if (true) {
+    let randomVariable = 10;
 
     console.log(randomVariable);
+  }
+
+  console.log(randomVariable);
 }
 
 randomFunction();
